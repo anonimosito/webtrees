@@ -5444,7 +5444,7 @@ msgstr "Cada cuenta de usuario tiene la opción de «aceptar automáticamente lo
 #: resources/views/modules/html/template-statistics.phtml:71
 #: resources/views/modules/statistics-chart/individual-events.phtml:36
 msgid "Earliest birth"
-msgstr "Nacimiento más temprano"
+msgstr "Primer nacimiento"
 
 #: resources/views/modules/gedcom_stats/config.phtml:57
 #: resources/views/modules/gedcom_stats/statistics.phtml:189
